@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1447128523 source:c:\users\ismo-\desktop\first\first\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1447883723 source:c:\users\ismo-\desktop\first\rolling dice (randomize)\main.c
+	<stdio.h>
+	<stdlib.h>
+

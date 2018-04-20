@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Class()
+comment1.params=low\ high
+comment1.target=long\ FindSmallestDivisibleNumber(int,\ int)
+numComments=2

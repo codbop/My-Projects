@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1449781069 source:c:\users\chorm\desktop\bin_to_dec\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<conio.h>
+

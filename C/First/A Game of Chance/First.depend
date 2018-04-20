@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447151702 source:c:\users\ismo-\desktop\first\first\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

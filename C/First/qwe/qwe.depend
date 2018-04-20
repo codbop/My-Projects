@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444945933 source:c:\users\ismo-\desktop\first\qwe\main.c
+	<stdio.h>
+	<stdlib.h>
+

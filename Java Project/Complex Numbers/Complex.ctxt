@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Complex(int,\ int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ComplexNumber\r\n
+comment1.params=x
+comment1.target=void\ setA(int)
+comment2.params=y
+comment2.target=void\ setB(int)
+comment3.params=
+comment3.target=int\ getA()
+comment4.params=
+comment4.target=int\ getB()
+comment5.params=
+comment5.target=java.lang.String\ print()
+comment6.params=c
+comment6.target=Complex\ add(Complex)
+comment7.params=c
+comment7.target=Complex\ multiply(Complex)
+numComments=8

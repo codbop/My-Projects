@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450595684 source:c:\users\ismo-\desktop\first\generate different random numbers between 1 and 20 (with arrays)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

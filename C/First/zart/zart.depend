@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444944323 source:c:\users\ismo-\desktop\first\zart\main.c
+	<stdio.h>
+	<stdlib.h>
+

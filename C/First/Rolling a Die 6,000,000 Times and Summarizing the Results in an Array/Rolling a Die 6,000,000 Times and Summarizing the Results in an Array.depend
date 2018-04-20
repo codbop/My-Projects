@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450445913 source:c:\users\ismo-\desktop\first\rolling a die 6,000,000 times and summarizing the results in an array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
